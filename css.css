@@ -1,0 +1,7 @@
+body {
+    background-image: linear-gradient(to right,#020024 , #090979, #00d4ff);
+  }
+
+.botao{
+    float: left;
+}
